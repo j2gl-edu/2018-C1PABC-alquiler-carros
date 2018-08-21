@@ -1,9 +1,5 @@
 package edu.advanced.alquiler;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-
 import edu.advanced.alquiler.model.Cliente;
 import edu.advanced.alquiler.model.Vehiculo;
 
